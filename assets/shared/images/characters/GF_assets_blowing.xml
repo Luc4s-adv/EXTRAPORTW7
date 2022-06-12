@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets_blowing.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat Hair blowing0000" x="0" y="0" width="701" height="636" frameX="-45" frameY="-13" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0001" x="711" y="0" width="703" height="636" frameX="-45" frameY="-13" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0002" x="1424" y="0" width="748" height="628" frameX="0" frameY="-21" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0003" x="2182" y="0" width="699" height="627" frameX="-47" frameY="-22" frameWidth="748" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0004" x="2891" y="0" width="701" height="638" frameX="-45" frameY="-11" frameWidth="748" frameHeight="649"/>
+</TextureAtlas>

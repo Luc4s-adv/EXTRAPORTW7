@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="picoSpeaker.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico shoot 10000" x="0" y="0" width="899" height="711" frameX="-2" frameY="-80" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10001" x="899" y="0" width="901" height="711" frameX="0" frameY="-80" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10002" x="1800" y="0" width="1066" height="791" frameX="-2" frameY="0" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10003" x="2866" y="0" width="1176" height="791"frameX="-2" frameY="0" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10004" x="0" y="791" width="700" height="719" frameX="-2" frameY="-72" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10005" x="700" y="791" width="743" height="711" frameX="-2" frameY="-80" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10006" x="1443" y="791" width="752" height="752" frameX="-2" frameY="-39" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10007" x="0" y="791" width="700" height="719" frameX="-2" frameY="-72" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10008" x="700" y="791" width="743" height="711" frameX="-2" frameY="-80" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10009" x="1443" y="791" width="752" height="752" frameX="-2" frameY="-39" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10010" x="0" y="791" width="700" height="719" frameX="-2" frameY="-72" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10011" x="700" y="791" width="743" height="711" frameX="-2" frameY="-80" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 10012" x="1443" y="791" width="752" height="752" frameX="-2" frameY="-39" frameWidth="1178" frameHeight="791"/>
+	<SubTexture name="Pico shoot 20000" x="2195" y="791" width="868" height="653" frameX="0" frameY="-10" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20001" x="3063" y="791" width="866" height="653" frameX="-2" frameY="-10" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20002" x="0" y="1543" width="1154" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20003" x="1154" y="1543" width="1274" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20004" x="2428" y="1543" width="700" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20005" x="3128" y="1543" width="700" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20005" x="1154" y="1543" width="1274" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20006" x="2428" y="1543" width="700" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 20007" x="3128" y="1543" width="700" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 30000" x="0" y="2868" width="814" height="662" frameX="-303" frameY="-66" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30001" x="812" y="2868" width="812" height="661" frameX="-303" frameY="-66" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30002" x="1624" y="2868" width="952" height="653" frameX="-163" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30003" x="0" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30004" x="700" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30005" x="0" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30006" x="700" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30007" x="0" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30008" x="700" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30009" x="0" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30010" x="700" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30011" x="0" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30012" x="700" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30013" x="0" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30014" x="700" y="2216" width="700" height="653" frameX="-415" frameY="-74" frameWidth="1117" frameHeight="727"/>
+	<SubTexture name="Pico shoot 30006" x="0" y="2206" width="700" height="663" frameX="-2" frameY="0" frameWidth="1276" frameHeight="663"/>
+	<SubTexture name="Pico shoot 40000" x="2293" y="2204" width="888" height="659" frameX="-257" frameY="-113" frameWidth="1144" frameHeight="772"/>
+	<SubTexture name="Pico shoot 40001" x="1398" y="2204" width="889" height="659" frameX="-253" frameY="-113" frameWidth="1144" frameHeight="772"/>
+	<SubTexture name="Pico shoot 40002" x="3187" y="2549" width="906" height="772" frameX="-232" frameY="0" frameWidth="1144" frameHeight="772"/>
+</TextureAtlas>

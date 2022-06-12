@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfHoldingGF-DEADL.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dead with GF Loop0000" x="0" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0001" x="591" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0002" x="591" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0003" x="1182" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0004" x="1182" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0005" x="0" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0006" x="0" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0007" x="591" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0008" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0009" x="0" y="934" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0010" x="0" y="934" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0011" x="591" y="934" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0012" x="1182" y="934" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0013" x="1182" y="934" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0014" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0015" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0016" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0017" x="0" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0018" x="591" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0019" x="591" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0020" x="1182" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0021" x="1182" y="0" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0022" x="0" y="1401" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0023" x="0" y="1401" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0024" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0025" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0026" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0027" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0028" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0029" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0030" x="591" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0031" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0032" x="1182" y="467" width="591" height="467"/>
+	<SubTexture name="BF Dead with GF Loop0033" x="1182" y="467" width="591" height="467"/>
+</TextureAtlas>
